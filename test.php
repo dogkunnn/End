@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    สวัสดีครับ นี่คือข้อความทดสอบในไฟล์ test.php
+    สวัสดีครับ
 </body>
 </html>
