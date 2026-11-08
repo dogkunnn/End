@@ -1,0 +1,1 @@
+user_id|i:6;user_username|s:4:"tech";user_name|s:106:"นายธีรภัทร ช่างฝีมือ (หัวหน้าช่างซ่อม)";user_role|s:10:"technician";user_emp_code|s:10:"EMP-TEC-01";user_email|s:20:"tech@technotepro.com";user_phone|s:12:"086-666-7777";unlocked_departments|a:1:{s:5:"sales";b:1;}cart|a:0:{}

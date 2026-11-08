@@ -1,0 +1,1 @@
+user_id|i:2;user_username|s:5:"admin";user_name|s:117:"น.ส.วิภาดา บริหารกิจ (ผู้จัดการฝ่ายบุคคล/Admin)";user_role|s:2:"hr";user_emp_code|s:9:"EMP-HR-01";user_email|s:18:"hr@technotepro.com";user_phone|s:12:"082-222-3333";flash|a:2:{s:4:"type";s:6:"danger";s:7:"message";s:232:"คุณไม่มีสิทธิ์เข้าถึง ฝ่ายขาย (Sales &amp; POS) (สงวนสิทธิ์เฉพาะตำแหน่งที่รับผิดชอบเท่านั้น)";}
